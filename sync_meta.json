@@ -1,0 +1,24 @@
+{
+  "gids": [
+    {
+      "group": "installation",
+      "gid": 217699851,
+      "rows": 367
+    },
+    {
+      "group": "installation",
+      "gid": 1623760841,
+      "rows": 13
+    },
+    {
+      "group": "pump",
+      "gid": 1779550847,
+      "rows": 269
+    },
+    {
+      "group": "pump",
+      "gid": 983928362,
+      "rows": 1
+    }
+  ]
+}
