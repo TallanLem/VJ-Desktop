@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="300" viewBox="0 0 800 300">
+  <rect x="40" y="80" width="480" height="120" fill="none" stroke="#333" stroke-width="2"/>
+  <line x1="40" y1="220" x2="520" y2="220" stroke="#333" stroke-width="2"/>
+  <line x1="40" y1="220" x2="40" y2="250" stroke="#333"/>
+  <line x1="520" y1="220" x2="520" y2="250" stroke="#333"/>
+  <text x="250" y="245" font-size="18" fill="#111">L = {L}</text>
+
+  <line x1="540" y1="80" x2="540" y2="200" stroke="#333" stroke-width="2"/>
+  <line x1="540" y1="80" x2="570" y2="80" stroke="#333"/>
+  <line x1="540" y1="200" x2="570" y2="200" stroke="#333"/>
+  <text x="580" y="145" font-size="18" fill="#111">H = {H}</text>
+
+  <text x="40" y="40" font-size="20" fill="#0f62fe">Тестовый чертеж: {Наименование}</text>
+  <text x="40" y="65" font-size="16" fill="#555">Артикул: {Артикул}</text>
+</svg>
